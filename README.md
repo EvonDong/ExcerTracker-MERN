@@ -1,3 +1,40 @@
+
+#ExcerTracker
+
+## About ExcerTracker
+
+ExcerTracker is an hassle-free, seamless site uniquely designed and specialised for fitness tracking. 
+
+
+
+
+Home Page (top):
+<img src="/website-images/excertracker-home-top" {width=40px height=400px}>
+
+Home Page (bottom):
+<img src="/website-images/excertracker-home-bottom" {width=40px height=400px}>
+
+Countdown Page:
+<img src="/website-images/excertracker-countdown" {width=40px height=400px}>
+
+Logged Exercises Page:
+<img src="/website-images/excertracker-loggedExercise" {width=40px height=400px}>
+
+Add/Edit Page:
+<img src="/website-images/excertracker-editExercise" width="48">
+
+Add User Page:
+<img src="/website-images/excertracker-addUser" width="48">
+
+Recommend Exercises Page:
+<img src="/website-images/excertracker-recommend" width="48">
+
+Recommend Exercises in Detail Page:
+<img src="/website-images/excertracker-recommend-details" width="48">
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
