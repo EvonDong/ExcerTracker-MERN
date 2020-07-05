@@ -10,35 +10,35 @@ ExcerTracker is an hassle-free, seamless site uniquely designed and specialised 
 
 Home Page (top):
 
-<img src="/website-images/excertracker-home-top"  width="500" height="260">
+<img src="/website-images/excertracker-home-top.png" width="500" height="260">
 
 Home Page (bottom):
 
-<img src="/website-images/excertracker-home-bottom"  width="500" height="260">
+<img src="/website-images/excertracker-home-bottom.png" width="500" height="260">
 
 Countdown Page:
 
-<img src="/website-images/excertracker-countdown" width="500" height="260">
+<img src="/website-images/excertracker-countdown.png" width="500" height="260">
 
 Logged Exercises Page:
 
-<img src="/website-images/excertracker-loggedExercise" width="500" height="260">
+<img src="/website-images/excertracker-loggedExercise.png" width="500" height="260">
 
 Add/Edit Page:
 
-<img src="/website-images/excertracker-editExercise" width="500" height="260">
+<img src="/website-images/excertracker-editExercise.png" width="500" height="260">
 
 Add User Page:
 
-<img src="/website-images/excertracker-addUser" width="500" height="260">
+<img src="/website-images/excertracker-addUser.png" width="500" height="260">
 
 Recommend Exercises Page:
 
-<img src="/website-images/excertracker-recommend" width="500" height="260">
+<img src="/website-images/excertracker-recommend.png" width="500" height="260">
 
 Recommend Exercises in Detail Page:
 
-<img src="/website-images/excertracker-recommend-details" width="500" height="260">
+<img src="/website-images/excertracker-recommend-details.png" width="500" height="260">
 
 
 
