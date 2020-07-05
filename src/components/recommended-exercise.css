@@ -1,0 +1,78 @@
+.cycle-container {
+    align-items: center;
+    justify-content: center;
+    text-align: center
+}
+
+.recommended-masthead {
+    align-items: center;
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 35rem;
+    padding: 15rem 0;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 45%, #000000 70%), url("../recommended-background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+  .recommended-masthead h3 {
+    align-items: center;
+    text-align: center;
+    font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1.0rem;
+    line-height: 1.0rem; 
+    letter-spacing: 0.8rem;
+    background: linear-gradient(rgba(190, 223, 228, 0.9), rgba(189, 198, 199, 0));
+    -webkit-text-fill-color: whitesmoke;
+    -webkit-background-clip: text;
+            background-clip: text;
+  }
+  .recommended-masthead h4 {
+    margin-left: 650px;
+    -webkit-text-fill-color: navajowhite;
+    outline-width: thick;
+    max-width: 20rem;
+  }
+
+  .recommended-masthead p {
+    -webkit-text-fill-color: whitesmoke;
+  }
+
+  @media (min-width: 768px) {
+    .recommended-asthead h3 {
+      font-size: 4rem;
+      line-height: 4rem;
+    }
+  }
+  @media (min-width: 992px) {
+    .recommended-masthead {
+      height: 100vh;
+      padding: 0;
+    }
+    .recommended-masthead h3 {
+      font-size: 6.5rem;
+      line-height: 6.5rem;
+      letter-spacing: 0.8rem;
+    }
+    .recommended-masthead h4 {
+      max-width: 30rem;
+      font-size: 1.25rem;
+    }
+  }
+
+#cycle {
+    width:600px;
+    height:200px;
+  }
+
+  #planksImg {
+    width:500px;
+    height:200px;
+  }
+
+  #dumbellCurlImg {
+    width:500px;
+    height:200px;
+  }
