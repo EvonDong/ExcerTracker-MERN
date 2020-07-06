@@ -17,6 +17,8 @@ Home Page (bottom):
 
 ExcerTracker is an hassle-free, seamless site uniquely designed and specialised for fitness tracking. 
 
+### Countdown
+
 The highlight of this website is the countdown page. Users can input their target weight and give themselves a deadline to achieve their desired weight. The countdown page features the target weight and a clock ticking towards to the D-Day. This promotes a sense of urgency and spurs users to persist on their fitness journey.
 
 Countdown Page:
@@ -24,6 +26,8 @@ Countdown Page:
 <img src="/website-images/excertracker-countdown.png" width="500" height="260">
 
 <br>
+
+### Logging Exercises
 
 This website can also accommodate a massive number of related users and display their information simultaneously for easy reference, which makes it suitable for club / CCA use. 
 
@@ -40,6 +44,8 @@ Add User Page:
 <img src="/website-images/excertracker-addUser.png" width="500" height="260">
 
 <br>
+
+### Recommendations
 
 For beginners who are unsure on how to get started, the website provides effective, fun exercises to spark their thirst for exercising.
 
