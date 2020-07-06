@@ -23,6 +23,8 @@ Countdown Page:
 
 <img src="/website-images/excertracker-countdown.png" width="500" height="260">
 
+<br>
+
 This website can also accommodate a massive number of related users and display their information simultaneously for easy reference, which makes it suitable for club / CCA use. 
 
 Logged Exercises Page:
@@ -36,6 +38,8 @@ Add/Edit Page:
 Add User Page:
 
 <img src="/website-images/excertracker-addUser.png" width="500" height="260">
+
+<br>
 
 For beginners who are unsure on how to get started, the website provides effective, fun exercises to spark their thirst for exercising.
 
