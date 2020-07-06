@@ -3,7 +3,7 @@
 
 ## About ExcerTracker
 
-ExcerTracker is a fitness tracking website built using ***MERN (MongoDB, Express, React, Node.js)*** stack. The blueprint of the website is designed with the central aim of inspiring the users to kickstart their exercise journey. 
+ExcerTracker is a fitness tracking website built using ***MERN (MongoDB, Express, React, Node.js)*** stack. The blueprint of the website is designed with the central aim of inspiring users to kickstart their fitness journey. 
 
 Home Page (top):
 
@@ -23,7 +23,7 @@ Countdown Page:
 
 <img src="/website-images/excertracker-countdown.png" width="500" height="260">
 
-This website can also accommdate and record a massive number of users and display their information simultaneously, which makes it suitable for club / CCA use. 
+This website can also accommodate a massive number of related users and display their information simultaneously for easy reference, which makes it suitable for club / CCA use. 
 
 Logged Exercises Page:
 
