@@ -1,12 +1,9 @@
 
-#ExcerTracker
+# ExcerTracker
 
 ## About ExcerTracker
 
-ExcerTracker is an hassle-free, seamless site uniquely designed and specialised for fitness tracking. 
-
-
-
+ExcerTracker is a fitness tracking website built using ***MERN (MongoDB, Express, React, Node.js)*** stack. The blueprint of the website is designed with the central aim of inspiring the users to kickstart their exercise journey. 
 
 Home Page (top):
 
@@ -16,21 +13,31 @@ Home Page (bottom):
 
 <img src="/website-images/excertracker-home-bottom.png" width="500" height="260">
 
+## Features
+
+ExcerTracker is an hassle-free, seamless site uniquely designed and specialised for fitness tracking. 
+
+The highlight of this website is the countdown page. Users can input their target weight and give themselves a deadline to achieve their desired weight. The countdown page features the target weight and a clock ticking towards to the D-Day. This promotes a sense of urgency and spurs users to persist on their fitness journey.
+
 Countdown Page:
 
 <img src="/website-images/excertracker-countdown.png" width="500" height="260">
 
+This website can also accommdate and record a massive number of users and display their information simultaneously, which makes it suitable for club / CCA use. 
+
 Logged Exercises Page:
 
-<img src="/website-images/excertracker-loggedExercise.png" width="500" height="260">
+<img src="/website-images/excertracker-loggedExercise.png" width="500" height="180">
 
 Add/Edit Page:
 
-<img src="/website-images/excertracker-editExercise.png" width="500" height="260">
+<img src="/website-images/excertracker-editExercise.png" width="500" height="180">
 
 Add User Page:
 
 <img src="/website-images/excertracker-addUser.png" width="500" height="260">
+
+For beginners who are unsure on how to get started, the website provides effective, fun exercises to spark their thirst for exercising.
 
 Recommend Exercises Page:
 
@@ -42,6 +49,9 @@ Recommend Exercises in Detail Page:
 
 
 
+
+
+<!-- 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -110,4 +120,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `yarn build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify -->
